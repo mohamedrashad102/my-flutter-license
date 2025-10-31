@@ -5,6 +5,6 @@
     },
     {
         "App": "ReWire",
-        "Enabled": false
+        "Enabled": true
     }   
 ]
