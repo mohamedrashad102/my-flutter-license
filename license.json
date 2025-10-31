@@ -2,5 +2,9 @@
     {
         "App": "LifeLine",
         "Enabled": true
+    },
+    {
+        "App": "ReWire",
+        "Enabled": false
     }   
 ]
