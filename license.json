@@ -6,9 +6,5 @@
     {
         "App": "ReWire",
         "Enabled": true
-    },
-    {
-        "App": "FlexiCare",
-        "Enabled": true
-    }   
+    }
 ]
