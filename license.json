@@ -9,6 +9,6 @@
     },
     {
         "App": "FlexiCare",
-        "Enabled": true
+        "Enabled": false
     }   
 ]
