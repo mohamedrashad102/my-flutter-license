@@ -10,5 +10,9 @@
     {
         "App": "FlexiCare",
         "Enabled": true
-    }   
+    },
+    {
+        "App": "OncoTrack",
+        "Enabled": true
+    }
 ]
